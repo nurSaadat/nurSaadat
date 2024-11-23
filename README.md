@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nurSaadat
-- 👀 I’m interested in Software Engineering and mobile games (but currently I like playing more than creating them!)
-- 🌱 I’m currently learning how to make mobile applications using Flutter.
-- 💞️ I’m looking to collaborate on more projects related to cloud computing.
+- 👀 I’m interested in Software Engineering 
+- 🌱 I’m currently learning how to create cross-platform applications using React Native.
+- 💞️ I’m looking to collaborate on more projects related to Redux.
 - 📫 How to reach me nursultan.saadat@gmail.com
 
 <!---
