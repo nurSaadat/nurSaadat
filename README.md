@@ -3,7 +3,7 @@
 </p>
 
 Hey there! I’m a software engineer who loves building sleek, scalable, and user-friendly apps.  
-💻 I’ve spent **2 years** crafting **front-end** & **mobile** experiences with **React**, **React Native**, **Next.js**, and **Node.js**.
+💻 I’ve spent over **4 years** crafting **front-end** & **mobile** experiences.
 
 <!-- GitHub Stats -->
 <p align="center">
