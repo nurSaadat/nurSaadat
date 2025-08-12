@@ -14,7 +14,7 @@ Hey there! I’m a software engineer who loves building sleek, scalable, and use
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,js,ts,html,css,tailwind,git,github,py,postgres,postman" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs"/>&nbsp;&nbsp;<img src="https://skills.syvixor.com/api/icons?i=expo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs,js,ts,html,css,tailwind,git,github,py,postgres,postman" />
 </p>
 
 <!-- Connect With Me -->
