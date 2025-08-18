@@ -1,8 +1,8 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:541899,100:BE2BC0&height=200&section=header&text=Hi%2C%20I'm%20Saadat!&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-</p>
+</p>-->
 
-Hey there! I’m a software engineer who loves building sleek, scalable, and user-friendly apps.  
+Hey there!👋 I’m a software engineer who loves building beautiful and user-friendly apps.  
 💻 I’ve spent over **4 years** crafting **front-end** & **mobile** experiences.
 
 <!-- GitHub Stats -->
